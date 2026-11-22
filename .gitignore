@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Voice training audio
+voice_data/
+
+memory.db
+
+.env
